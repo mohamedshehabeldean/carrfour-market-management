@@ -1,5 +1,5 @@
 # carrfour-market-management
-this is a software engineering project about carrfour Market
+software engineering project about carrfour Market
 this project include
  1-Introduction………………………………………………………………………………………………………………………………………………  3
  2-Proplem definition................................................. 4
